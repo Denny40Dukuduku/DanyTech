@@ -1,0 +1,185 @@
+*{
+   text-decoration: none;
+   padding: 0;
+   margin: 0;
+   font-family: fantasy;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.navdiv{
+    background-image: url('logo.jpg');
+    height: 100px ;
+    background-size: cover;
+}
+
+li{
+   list-style:none ;
+   display: inline-block;
+   margin-top: 26px ;
+}
+
+li a{
+    margin: 2px ;
+    border: solid ;
+    padding: 2px;
+    color: blue;
+    border-radius: 15px ;
+}
+
+li a:hover{
+    background: black;
+    border:solid;
+}
+
+button{
+    text-decoration: none ;
+    margin: 4px;
+    padding: 2px;
+    border-radius:9px ;
+    width: 50px;
+    height: 30px;
+    color:yellow ;
+    
+}
+
+button a{
+    color: blue;
+}
+
+button a:hover{
+    padding: 10px ;
+    border-radius: 15px ;
+    background-color: black;      
+       
+}
+
+/* new page */
+
+.container{ 
+    background: gold;   
+    margin-top: 10px;       
+}
+
+.card{
+    background-color: wheat;
+    height: 400px;
+    width: 334px ;
+    margin: 10px ;
+    border-radius:15px ;
+   
+}
+
+.home{
+   background-image: url('nodine.jpg');
+   height: 400px;
+   background-size: cover;
+   color: darkturquoise;
+   margin: 10px ;
+   text-align: center ;
+   border-radius: 15px ;
+  
+   
+}
+
+Span{
+   color:black ;
+   text-align: center ;
+   margin: 10px ;
+   
+ }
+ 
+ .image1{
+   background-image: url('uniform.jpg');
+   height: 200px;
+   margin-bottom: 10px ;
+   background-size: cover;
+}
+
+
+.image2{
+  background-image: url('books.jpg');
+   height: 200px;
+   margin-bottom: 10px ;
+   background-size: cover;
+}
+
+
+
+.image3{
+  background-image: url('rules.jpg');
+   height: 200px;
+   margin-bottom: 10px ;
+   background-size: cover;
+}
+
+.image4{
+   background-image: url('drugs.jpg');
+   height: 200px;
+   margin-bottom: 10px ;
+   background-size: cover;
+}
+
+.image5{
+   background-image: url('travel.jpg');
+   height: 200px;
+   margin-bottom: 10px ;
+   background-size: cover;
+}
+
+.image6{
+   background-image: url('bus.jpg');
+   height: 200px;
+   margin-bottom: 10px ;
+   background-size: cover;
+}
+
+.image7{
+   background-image: url('funeral.jpg');
+   height: 200px;
+   margin-bottom: 10px ;
+   background-size: cover;
+}
+
+.image8{
+   background-image: url('mculo.jpg');
+   height: 200px;
+   margin-bottom: 10px ;
+   background-size: cover;
+}
+
+.image9{
+   background-image: url('food.jpg');
+   height: 200px;
+   margin-bottom: 10px ;
+   background-size: cover;
+}
+
+
+.image10{
+   background-image: url('drugs.jpg');
+   height: 200px;
+   margin-bottom: 10px ;
+   background-size: cover;
+}
+
+
+
+.box{
+    background-image: url('code.jpg');
+    height: 300px ;
+    border-radius: 2px ;
+    background-size: cover ;
+    margin-bottom: 15px ;
+    
+}
+
+.me{
+   margin-top: 26px ;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 19px ;
+    color:red ;
+}
